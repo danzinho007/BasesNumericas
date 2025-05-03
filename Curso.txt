@@ -1,5 +1,8 @@
 Curso Bases Numéricas :
 
+Estudo:
+https://www.cursoemvideo.com/curso/bases-numericas/
+
 ---Aula 01---
 
 Sistema Decimal = Base 10 ( Número de dedos da mão )
