@@ -40,3 +40,13 @@ Binário > Decimal
         = 1 x 8  + 0 x 4  + 1 x 2  + 1 x 1
         =   8    +   0    +   2    +    1
         = 11
+
+10011 = 
+
+Monta a tabela colocando cada número embaixo:
+64 32 16 8 4 2 1
+       1 0 0 1 1 
+
+Corta os 0 e soma 
+16 + 2 + 1 = 19
+10011 é 11 em Decimal
